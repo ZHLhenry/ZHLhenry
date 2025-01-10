@@ -1,5 +1,5 @@
 <h1 align="center">
-我写代码没有技巧, 全是感情 &nbsp;&nbsp;&nbsp;
+我写代码没有技巧, 全是感情!
 <p align="center">
   <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
   <a href="https://github.com/ZHLhenry">
@@ -19,5 +19,5 @@
 </h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ZHLhenry&count_private=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZHLhenry&show_icons=true&theme=transparent&title_color=65b587&icon_color=7dc09a&border_color=7dc09a" width="450"/>
 </p>
