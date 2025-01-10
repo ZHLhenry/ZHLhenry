@@ -1,5 +1,8 @@
 <h1 align="center">
 我写代码没有技巧, 全是感情 &nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+</p>
 </h1>
 
 <p align="center">
